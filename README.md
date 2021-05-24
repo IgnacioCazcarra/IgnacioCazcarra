@@ -1,4 +1,10 @@
-### 20 years old currently working as a Machine Learning Engineer 😄
+### 21 year old currently working as a Machine Learning Engineer 😄
+
+#### Here you'll mostly find personal projects or some group projects made for University. 
+
+[Portfolio](https://ignaciocazcarra.github.io/Portfolio/home)
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/ignacio-cazcarra-5b1a941a4/)
 
 <!--
 **IgnacioCazcarra/IgnacioCazcarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
