@@ -1,4 +1,4 @@
-### 21 year old currently working as a Data Scientist 😄
+### 22 year old currently working as a Data Scientist 😄
 
 #### Here you'll mostly find personal projects or some group projects made for University. 
 
