@@ -1,8 +1,6 @@
-### 22 year old currently working as a Data Scientist 😄
+### 22 year old - Currently working as a Data Scientist 😄
 
-#### Here you'll mostly find personal projects or some group projects made for University. 
-
-[Portfolio](https://ignaciocazcarra.github.io/Portfolio/home)
+#### Here you'll find mostly personal projects and some group projects made for University. 
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/ignacio-cazcarra-5b1a941a4/)
 
